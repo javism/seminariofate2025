@@ -23,7 +23,7 @@ blockquote {
 
 # Fairness, Accountability, Transparency and Ethics in Machine Learning.
 
-### Introduction to Computational Modelling. Degree in Computer Engineering. University of Cordoba. 2023-2024
+### Introduction to Computational Modelling. Degree in Computer Engineering. University of Cordoba. 2025-2026
 
 Javier Sánchez Monedero (Universidad de Córdoba)
 
@@ -317,7 +317,7 @@ https://pair-code.github.io/what-if-tool/
 - COMPAS general recidivism data
 - Simplified version of ProPublica experiments
   
-https://github.com/javism/seminariofate2023
+https://github.com/javism/seminariofate2025
 
 <!--
 ---

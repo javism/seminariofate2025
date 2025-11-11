@@ -22,7 +22,8 @@ blockquote {
 </style>
 
 # Equidad, Rendición de Cuentas, Transparencia y Ética en el Aprendizaje Automático
-### Introducción a los Modelos Computacionales. Grado en Ingeniería Informática. Universidad de Córdoba. 2023-2024
+
+### Introducción a los Modelos Computacionales. Grado en Ingeniería Informática. Universidad de Córdoba. 2025-2026
 
 Javier Sánchez Monedero (Universidad de Córdoba)
 
@@ -302,7 +303,7 @@ https://pair-code.github.io/what-if-tool/
 - Datos de reincidencia general de COMPAS
 - Experimentos simplificados de ProPublica
 
-https://github.com/javism/seminariofate2023
+https://github.com/javism/seminariofate2025
 
   
 <!-- https://github.com/javism/seminariofate2022/blob/master/IndianLiverPatientDataset-seminar.ipynb -->
