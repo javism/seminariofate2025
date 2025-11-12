@@ -35,6 +35,7 @@ Javier Sánchez Monedero (Universidad de Córdoba)
 # Objetivos
 
 - Introducción y motivación a FATE en inteligencia artificial
+
 - Cuantificando y mitigando sesgos: [FairLearn](https://fairlearn.org/)
 
 ---

@@ -125,6 +125,12 @@ Con el "pero" de lo difícil de expresar la pertenencia a grupo, es interesante 
 
 ![](pics/articulo23.png)
 
+---
+# Risk based approach of AI Act
+
+![h:16em](pics/aiact-levels.png)
+
+> Source [Artificial intelligence act](https://www.consilium.europa.eu/en/policies/artificial-intelligence/)
 
 ---
 # ...but people also have biases
@@ -153,7 +159,7 @@ Differences (O'Neil 2016):
 
 Intersectional analysis of Amazon Rekognition face recognition performance. The lowest hit rate is for dark-skinned women. 
 
-![](pics/amazon-recoknition.png)
+![h:12em](pics/amazon-recoknition.png)
 
 > Fuente Buolamwini (2019). [Response: Racial and Gender bias in Amazon Rekognition — Commercial AI System for Analyzing Faces.](https://medium.com/@Joy.Buolamwini/response-racial-and-gender-bias-in-amazon-rekognition-commercial-ai-system-for-analyzing-faces-a289222eeced)
 
@@ -227,7 +233,7 @@ An excellent example can be found in Straw, I., & Wu, H. (2022).
 --- 
 # The "zoo" of fairness metrics
 
-![h:19em center](pics/zoo-fairness-metrics.png)
+![h:14em center](pics/zoo-fairness-metrics.png)
 
 > Castelnovo, A., Crupi, R., Greco, G. et al. A clarification of the nuances in the fairness metrics landscape. Sci Rep 12, 4209 (2022). https://doi.org/10.1038/s41598-022-07939-1
 
@@ -287,7 +293,7 @@ It is mathematically compatible because the a priori prevalence/baseline frequen
 
   
 <!-- ---
-# Inventarios de Case
+# Cases databases
 
 ![bg left fit](pics/automatingsociety-2020-comic.jpg)
 
@@ -367,7 +373,7 @@ https://github.com/javism/seminariofate2025
 
 ## Explorar límites de precisión vs ecuanimidad
 
-![bg right:29% fit](pics/pareto_frontier_propublica.png)
+![bg right:23% fit](pics/pareto_frontier_propublica.png)
 
 Valdivia, A., Sánchez‐Monedero, J., & Casillas, J. (2021). How fair can we go in machine learning? Assessing the boundaries of accuracy and fairness. *Int J Intel Sys*, 36(4), 1619–1643. https://doi.org/10.1002/int.22354
 
