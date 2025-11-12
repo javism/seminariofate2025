@@ -3,6 +3,7 @@
 #_class: lead
 marp: true
 paginate: true
+lang: Spanish
 #size: 4:3
 ---
 
@@ -115,11 +116,24 @@ Con el "pero" de lo difícil de expresar la pertenencia a grupo, es interesante 
 
 ![](pics/articulo23.png)
 
+---
+# 4 niveles de riesgo del RIA
+
+![h:16em](pics/aiact-levels.png)
+
+> Fuente [Artificial intelligence act](https://www.consilium.europa.eu/en/policies/artificial-intelligence/)
+
+---
+# Definición de IA del RIA (*AI Act*)
+
+El Reglamento de Inteligencia Artificial (RIA) define sistema de IA como "*un sistema basado en una máquina que está diseñado para funcionar con distintos niveles de autonomía y que puede mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información de entrada que recibe la manera de generar resultados de salida, como predicciones, contenidos, recomendaciones o decisiones, que pueden influir en entornos físicos o virtuales*" (artículo 3.1)
+
+> Comisión Europea, [Directrices de la Comisión relativas a la definición de sistema de inteligencia artificial establecida en el Reglamento (UE)](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) 2024/1689 (Reglamento de IA), Bruselas, 29.7.2025 (C(2025) 5053 final).
 
 ---
 # Las personas también tienen sesgos
 
-![w:12em](pics/futurama-judge-person.jpg) ![w:12em](pics/futurama-judge-robot.jpg)
+![w:09em](pics/futurama-judge-person.jpg) ![w:09em](pics/futurama-judge-robot.jpg)
 
 Diferencias (O'Neil 2016): 
 * Sistematización
@@ -131,7 +145,7 @@ Diferencias (O'Neil 2016):
 ---
 # Casos: PNL + Visión Artificial
 
-![h:20em center](pics/cv-gender-bias-4.png)
+![h:16em center](pics/cv-gender-bias-4.png)
 
 > Zhao, J. et. al (2017). [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints.](https://www.aclweb.org/anthology/D17-1319) 
 
@@ -140,7 +154,7 @@ Diferencias (O'Neil 2016):
 
 Análisis interseccional del rendimiento en reconocimiento facial de Amazon Rekognition. La menor tasa de acierto se da para las mujeres de piel oscura. 
 
-![](pics/amazon-recoknition.png)
+![h:12em](pics/amazon-recoknition.png)
 
 > Fuente Buolamwini (2019). [Response: Racial and Gender bias in Amazon Rekognition — Commercial AI System for Analyzing Faces.](https://medium.com/@Joy.Buolamwini/response-racial-and-gender-bias-in-amazon-rekognition-commercial-ai-system-for-analyzing-faces-a289222eeced)
 
@@ -212,7 +226,7 @@ Un ejemplo excelente lo podeis ver en Straw, I., & Wu, H. (2022).
 --- 
 # El "zoo" de las métricas de ecuanimidad
 
-![h:19em center](pics/zoo-fairness-metrics.png)
+![h:14em center](pics/zoo-fairness-metrics.png)
 
 > Castelnovo, A., Crupi, R., Greco, G. et al. A clarification of the nuances in the fairness metrics landscape. Sci Rep 12, 4209 (2022). https://doi.org/10.1038/s41598-022-07939-1
 
@@ -328,7 +342,7 @@ https://github.com/javism/seminariofate2025
 ---
 # Recap: Fuentes de sesgo
 
-![h:18em center](pics/how_unfairness_happen.jpg)
+![h:16em center](pics/how_unfairness_happen.jpg)
 
 > Fuente Luke Vilain.
 
@@ -356,7 +370,7 @@ https://github.com/javism/seminariofate2025
 
 ## Explorar límites de precisión vs ecuanimidad
 
-![bg right:29% fit](pics/pareto_frontier_propublica.png)
+![bg right:23% fit](pics/pareto_frontier_propublica.png)
 
 Valdivia, A., Sánchez‐Monedero, J., & Casillas, J. (2021). How fair can we go in machine learning? Assessing the boundaries of accuracy and fairness. *Int J Intel Sys*, 36(4), 1619–1643. https://doi.org/10.1002/int.22354
 
