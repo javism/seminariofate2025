@@ -133,9 +133,16 @@ Con el "pero" de lo difícil de expresar la pertenencia a grupo, es interesante 
 > Source [Artificial intelligence act](https://www.consilium.europa.eu/en/policies/artificial-intelligence/)
 
 ---
+# Definición de IA del RIA (*AI Act*)
+
+The EU Artificial Intelligence Act: "*‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;*" (Article 3.1)
+
+> European Commission, [Guidelines on the definition of an artificial intelligence system established by the AI Act](https://digital-strategy.ec.europa.eu/es/library/commission-publishes-guidelines-ai-system-definition-facilitate-first-ai-acts-rules-application) 2024/1689 (AI Act), Brussels, 29.7.2025 (C(2025) 5053 final).
+
+---
 # ...but people also have biases
 
-![w:12em](pics/futurama-judge-person.jpg) ![w:12em](pics/futurama-judge-robot.jpg)
+![w:09em](pics/futurama-judge-person.jpg) ![w:09em](pics/futurama-judge-robot.jpg)
 
 Differences (O'Neil 2016): 
 
@@ -150,7 +157,7 @@ Differences (O'Neil 2016):
 ---
 # Cases: NLP + Computer Vision
 
-![h:20em center](pics/cv-gender-bias-4.png)
+![h:16em center](pics/cv-gender-bias-4.png)
 
 > Zhao, J. et. al (2017). [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints.](https://www.aclweb.org/anthology/D17-1319) 
 
@@ -231,12 +238,18 @@ An excellent example can be found in Straw, I., & Wu, H. (2022).
 
 
 --- 
-# The "zoo" of fairness metrics
+# The "zoo" of fairness metrics (for classification)
 
 ![h:14em center](pics/zoo-fairness-metrics.png)
 
 > Castelnovo, A., Crupi, R., Greco, G. et al. A clarification of the nuances in the fairness metrics landscape. Sci Rep 12, 4209 (2022). https://doi.org/10.1038/s41598-022-07939-1
 
+
+---
+# Bias visualization 
+![h:16em](pics/bias-visualization.png)
+
+> Zhao, J. et. al (2017). [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints.](https://www.aclweb.org/anthology/D17-1319) 
 
 ---
 <!-- _backgroundColor: "darkgreen" -->

@@ -225,11 +225,18 @@ Un ejemplo excelente lo podeis ver en Straw, I., & Wu, H. (2022).
 
 
 --- 
-# El "zoo" de las métricas de ecuanimidad
+# El "zoo" de las métricas de ecuanimidad (en clasificación principalmente)
 
 ![h:14em center](pics/zoo-fairness-metrics.png)
 
 > Castelnovo, A., Crupi, R., Greco, G. et al. A clarification of the nuances in the fairness metrics landscape. Sci Rep 12, 4209 (2022). https://doi.org/10.1038/s41598-022-07939-1
+
+---
+# Visualización del sesgo
+
+![h:16em](pics/bias-visualization.png)
+
+> Zhao, J. et. al (2017). [Men Also Like Shopping: Reducing Gender Bias Amplification using Corpus-level Constraints.](https://www.aclweb.org/anthology/D17-1319) 
 
 
 ---
